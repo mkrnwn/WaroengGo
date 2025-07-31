@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1051230335697",
+    "project_id": "waroenggo-126af",
+    "storage_bucket": "waroenggo-126af.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051230335697:android:6e33f959e60255a6d64bf0",
+        "android_client_info": {
+          "package_name": "com.example.waroeng_go1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLGV5TIpcxhcW7c4kzUBJizsPGF8VkDwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
